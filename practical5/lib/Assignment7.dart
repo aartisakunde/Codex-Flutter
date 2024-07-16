@@ -50,7 +50,7 @@ class Assignment7 extends StatelessWidget {
                   Text(
                     'Founder Java',
                   ),
-                ],
+                ],  
               ),
               SizedBox(height: 20,),
              Divider(
