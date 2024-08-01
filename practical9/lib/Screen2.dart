@@ -33,6 +33,7 @@ class _screen2State extends State<screen2> {
      ),
      body: Center(
       child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Container(
             height: 200,
